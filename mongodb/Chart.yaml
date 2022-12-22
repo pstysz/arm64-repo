@@ -1,0 +1,9 @@
+apiVersion: v2
+name: mongodb
+description: MongoDB compiled for arm64 architecture
+
+type: application
+
+version: 0.1.0
+
+appVersion: "6.0.3"
