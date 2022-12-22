@@ -5,7 +5,7 @@ entries:
       category: Database
     apiVersion: v2
     appVersion: 6.0.3
-    created: "2022-12-22T11:26:43.91607+01:00"
+    created: "2022-12-22T12:03:09.468978+01:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -15,7 +15,7 @@ entries:
     description: MongoDB(R) is a relational open source NoSQL database. Easy to use,
       it stores data in JSON-like documents. Automated scalability and high-performance.
       Ideal for developing cloud native applications.
-    digest: 945234729b9256a719c5f7e892b33af75ff1d7a0f3588ca5a7fcf51111d3c115
+    digest: e0ee7870641da5d3d1dbfa4d0bce6286fdc03bf5995eb244f00824a331a0ddf8
     home: https://github.com/bitnami/charts/tree/main/bitnami/mongodb
     icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
     keywords:
@@ -35,38 +35,4 @@ entries:
     urls:
     - mongodb-13.6.1.tgz
     version: 13.6.1
-  - annotations:
-      category: Database
-    apiVersion: v2
-    appVersion: 6.0.3
-    created: "2022-12-22T11:26:43.920113+01:00"
-    dependencies:
-    - name: common
-      repository: https://charts.bitnami.com/bitnami
-      tags:
-      - bitnami-common
-      version: 2.x.x
-    description: MongoDB(R) is a relational open source NoSQL database. Easy to use,
-      it stores data in JSON-like documents. Automated scalability and high-performance.
-      Ideal for developing cloud native applications.
-    digest: ce97922ecb521f87f09b36899d2106c84e552b4951bd7febbf8b81efc7b6d6b0
-    home: https://github.com/bitnami/charts/tree/main/bitnami/mongodb
-    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
-    keywords:
-    - mongodb
-    - database
-    - nosql
-    - cluster
-    - replicaset
-    - replication
-    maintainers:
-    - name: Bitnami
-      url: https://github.com/bitnami/charts
-    name: mongodb
-    sources:
-    - https://github.com/bitnami/containers/tree/main/bitnami/mongodb
-    - https://mongodb.org
-    urls:
-    - mongodb/mongodb-13.6.1.tgz
-    version: 13.6.1
-generated: "2022-12-22T11:26:43.910331+01:00"
+generated: "2022-12-22T12:03:09.46427+01:00"
